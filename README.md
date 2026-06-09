@@ -138,10 +138,7 @@ This allows safe testing and recovery from accidental organization.
 * Real-time folder monitoring
 * Exportable operation reports
 
-## License
-
-This project is released under the MIT License.
 
 ## Author
 
-Developed by Arif as a practical Python automation project focused on file management and command-line utilities.
+Developed by Ariful Islam Opi
